@@ -3,6 +3,8 @@
   "version": 2,
   "projects": {
     "ng1": "apps/ng1",
-    "ng1-e2e": "apps/ng1-e2e"
+    "ng1-e2e": "apps/ng1-e2e",
+    "ng2": "apps/ng2",
+    "ng2-e2e": "apps/ng2-e2e"
   }
 }
